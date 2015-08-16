@@ -1,0 +1,42 @@
+matt	Free	engineering
+caidyn	$40	marketing
+chet	$40	finance
+christina	Free	marketing
+taylor	$40	finance
+clara	Free	dev ops
+jon	Free	dev ops
+zili	$40	P.R.
+mike	Free	engineering
+jen	Free	finance
+hubert	$40	finance
+catherine	$40	engineering
+deepa	$40	P.R.
+madeline	$40	management
+Sam	Free	marketing
+hugo	Free	P.R.
+vinny	$40	marketing
+harry	Free	marketing
+Travis	Free	management
+rico	$40	engineering
+tristan	Free	marketing
+javier	Free	management
+fred	$40	marketing
+sam	Free	marketing
+tim	$40	engineering
+ben	Free	dev ops
+red	$40	P.R.
+whitney	$40	P.R.
+Patrick	$40	engineering
+Carly	$40	management
+Don	Free	engineering
+Jeb!	Free	engineering
+steve	$40	engineering
+lana	Free	dev ops
+chris	$40	P.R.
+sue	$40	P.R.
+sara	Free	finance
+adam	$40	marketing
+mary	$40	marketing
+hayden	Free	marketing
+jesus	Free	management
+mat	$40	engineering
